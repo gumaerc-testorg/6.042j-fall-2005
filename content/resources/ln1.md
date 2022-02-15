@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains reading notes for proofs, propositions, proving an
   implication etc.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2005/4f569e604a18133ca025a28754fc1f09_ln1.pdf
+file: /media/courses/6-042j-mathematics-for-computer-science-fall-2005/4f569e604a18133ca025a28754fc1f09_ln1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: ln1.pdf
 uid: 4f569e60-4a18-133c-a025-a28754fc1f09

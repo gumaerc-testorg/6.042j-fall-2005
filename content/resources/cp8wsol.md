@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains solutions to in-class problems for week 8, wednesday.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2005/994b57818e5399eefc7260a9d48bb939_cp8wsol.pdf
+file: /media/courses/6-042j-mathematics-for-computer-science-fall-2005/994b57818e5399eefc7260a9d48bb939_cp8wsol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: cp8wsol.pdf
 uid: 994b5781-8e53-99ee-fc72-60a9d48bb939

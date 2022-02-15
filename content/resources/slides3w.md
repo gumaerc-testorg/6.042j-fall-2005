@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource discusses induction rule, an aside: ellipses, class problem
   - ingenious induction hypotheses, and class problem 2 - a false proof.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2005/85c76857f918feb8a21c92f2b4df7527_slides3w.pdf
+file: /media/courses/6-042j-mathematics-for-computer-science-fall-2005/85c76857f918feb8a21c92f2b4df7527_slides3w.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: slides3w.pdf
 uid: 85c76857-f918-feb8-a21c-92f2b4df7527

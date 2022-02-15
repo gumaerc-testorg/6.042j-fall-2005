@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains reading notes for sums, products & asymptotics, closed
   forms and approximations, the value of annuity etc.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2005/0287cc25b80969d0e83c5ea3e854c227_ln8.pdf
+file: /media/courses/6-042j-mathematics-for-computer-science-fall-2005/0287cc25b80969d0e83c5ea3e854c227_ln8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: ln8.pdf
 uid: 0287cc25-b809-69d0-e83c-5ea3e854c227

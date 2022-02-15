@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource discusses state machine, state invariants, and The Fifteen
   Puzzle as team problem.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2005/b6231d6a090f3301e10d591f62298597_slides7f.pdf
+file: /media/courses/6-042j-mathematics-for-computer-science-fall-2005/b6231d6a090f3301e10d591f62298597_slides7f.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: slides7f.pdf
 uid: b6231d6a-090f-3301-e10d-591f62298597

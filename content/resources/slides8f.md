@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource discusses book stacking problem for n books and a team
   problem crossing dessert.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2005/e9197e249bc8cb9564f3c0d0d47d1232_slides8f.pdf
+file: /media/courses/6-042j-mathematics-for-computer-science-fall-2005/e9197e249bc8cb9564f3c0d0d47d1232_slides8f.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: slides8f.pdf
 uid: e9197e24-9bc8-cb95-64f3-c0d0d47d1232

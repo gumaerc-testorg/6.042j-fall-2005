@@ -4,8 +4,13 @@ description: 'This resource contains 4 set of problems based conditional probabi
   and
 
   independence.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2005/0b95726eb4264886780c2b6c966e212d_cp12w.pdf
+file: /media/courses/6-042j-mathematics-for-computer-science-fall-2005/0b95726eb4264886780c2b6c966e212d_cp12w.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: cp12w.pdf
 uid: 0b95726e-b426-4886-780c-2b6c966e212d

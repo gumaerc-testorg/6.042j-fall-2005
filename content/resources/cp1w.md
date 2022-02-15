@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains 2 set of problems based on bogus proofs and proposition
   (arithmetic ?geometric mean inequality).
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2005/2f40fa3ccb1dfac791414d27201383a6_cp1w.pdf
+file: /media/courses/6-042j-mathematics-for-computer-science-fall-2005/2f40fa3ccb1dfac791414d27201383a6_cp1w.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: cp1w.pdf
 uid: 2f40fa3c-cb1d-fac7-9141-4d27201383a6

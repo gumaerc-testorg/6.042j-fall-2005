@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains 3 set of problems based on sum and series II.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2005/9fdb4505b4f0351e9231cf323296bb0d_cp8f.pdf
+file: /media/courses/6-042j-mathematics-for-computer-science-fall-2005/9fdb4505b4f0351e9231cf323296bb0d_cp8f.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: cp8f.pdf
 uid: 9fdb4505-b4f0-351e-9231-cf323296bb0d

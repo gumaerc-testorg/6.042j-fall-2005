@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains solutions to in-class problems for week 6, friday.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2005/fba8e129bfbe4d9ed0a5da566305a2d0_cp6fsol.pdf
+file: /media/courses/6-042j-mathematics-for-computer-science-fall-2005/fba8e129bfbe4d9ed0a5da566305a2d0_cp6fsol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: cp6fsol.pdf
 uid: fba8e129-bfbe-4d9e-d0a5-da566305a2d0

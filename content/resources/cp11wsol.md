@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2005/5bd17946a55b1b021c51f9bdc2dff798_cp11wsol.pdf
+file: /media/courses/6-042j-mathematics-for-computer-science-fall-2005/5bd17946a55b1b021c51f9bdc2dff798_cp11wsol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: cp11wsol.pdf
 uid: 5bd17946-a55b-1b02-1c51-f9bdc2dff798

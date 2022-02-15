@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains 3 set of problems based on law of Large Numbers.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2005/22f9c6321425c930ea22938a24839c44_cp15m.pdf
+file: /media/courses/6-042j-mathematics-for-computer-science-fall-2005/22f9c6321425c930ea22938a24839c44_cp15m.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: cp15m.pdf
 uid: 22f9c632-1425-c930-ea22-938a24839c44

@@ -4,8 +4,13 @@ description: This resource discusses Normal Person?s graph, Computer Scientist?s
   relations and graphs, graphical properties of relations, paths, path relations,
   reflexive transitive closure, prerequisite  relation on classes, prerequisite graph,
   and Directed Acyclic Graph (DAG).
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2005/600283cc83a204295ea5251598586159_slides4w.pdf
+file: /media/courses/6-042j-mathematics-for-computer-science-fall-2005/600283cc83a204295ea5251598586159_slides4w.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: slides4w.pdf
 uid: 600283cc-83a2-0429-5ea5-251598586159

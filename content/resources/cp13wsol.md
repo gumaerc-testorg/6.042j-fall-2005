@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains solutions to in-class problems for week 13, wednesday.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-042j-mathematics-for-computer-science-fall-2005/358903deb8bc5c08d928861895e3ebef_cp13wsol.pdf
+file: /media/courses/6-042j-mathematics-for-computer-science-fall-2005/358903deb8bc5c08d928861895e3ebef_cp13wsol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: cp13wsol.pdf
 uid: 358903de-b8bc-5c08-d928-861895e3ebef
