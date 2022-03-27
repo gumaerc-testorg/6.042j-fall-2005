@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 2061ddda-0165-630a-41b6-196344561f21
 resourcetype: Document
 title: ln8.pdf
 uid: 0287cc25-b809-69d0-e83c-5ea3e854c227

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: d3b00d5c-2e50-b78c-a64e-454b08279d67
 resourcetype: Document
 title: spring02_q1.pdf
 uid: b6b1a6da-5970-34dd-a2d8-941d6f2d5fc2

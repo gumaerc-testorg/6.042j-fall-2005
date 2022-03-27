@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 2061ddda-0165-630a-41b6-196344561f21
 resourcetype: Document
 title: infinity.pdf
 uid: 3970d2f4-3a5a-e823-1f81-083d813a48a3
