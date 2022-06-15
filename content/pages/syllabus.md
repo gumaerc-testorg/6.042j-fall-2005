@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section contains information on course introduction, prerequisites,
+  course schedule, team problem solving, problem sets, online tutor problems, collaboration,
+  exams and grades, course objectives, and outcomes for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -33,7 +36,7 @@ This is an introductory course in Discrete Mathematics oriented toward Computer 
 2.  Discrete Structures: Modular Arithmetic, Graphs, State machines, Counting
 3.  Discrete Probability Theory
 
-The goals of the course are summarized in a statement of [Course Objectives and Educational Outcomes](#Course_Objectives_and_Outcomes). A detailed schedule of topic coverage appears in the [calendar]({{< baseurl >}}/pages/calendar) section.
+The goals of the course are summarized in a statement of [Course Objectives and Educational Outcomes](#Course_Objectives_and_Outcomes). A detailed schedule of topic coverage appears in the {{% resource_link 1e8d4103-74ef-81c9-57a2-f36fea778e74 "calendar" %}} section.
 
 {{< anchor "Prerequisites" >}}{{< /anchor >}}Prerequisites
 ----------------------------------------------------------

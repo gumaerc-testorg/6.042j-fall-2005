@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to in-class problems for week 2, wednesday.
-file: /media/courses/6-042j-mathematics-for-computer-science-fall-2005/40a225d08fe597eb915dd2c0396bbb9a_cp2wsol.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2005/40a225d08fe597eb915dd2c0396bbb9a_cp2wsol.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: cp2wsol.pdf
 uid: 40a225d0-8fe5-97eb-915d-d2c0396bbb9a
 ---
+This resource contains solutions to in-class problems for week 2, wednesday.
+

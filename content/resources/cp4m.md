@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 4 set of problems based on relation I.
-file: /media/courses/6-042j-mathematics-for-computer-science-fall-2005/3cf61bc2378c315161ee1e3afb0fc5e0_cp4m.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2005/3cf61bc2378c315161ee1e3afb0fc5e0_cp4m.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: cp4m.pdf
 uid: 3cf61bc2-378c-3151-61ee-1e3afb0fc5e0
 ---
+This resource contains 4 set of problems based on relation I.
+
