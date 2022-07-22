@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/04e6b8829036466
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cp9msol.pdf
 uid: 04e6b882-9036-4663-f87a-82f6d3c843dc
 ---
 This resource contains solutions to in-class problems for week 9, monday.
-

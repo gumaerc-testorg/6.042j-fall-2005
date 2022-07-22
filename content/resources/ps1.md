@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/d439ac58273bef2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps1.pdf
 uid: d439ac58-273b-ef2a-86a5-2e11d78fdeae
 ---
 This file contains exercise questions for Propositions and Proofs.
-

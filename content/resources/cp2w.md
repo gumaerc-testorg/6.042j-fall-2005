@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/8a38fb458cd1ae8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cp2w.pdf
 uid: 8a38fb45-8cd1-ae81-1104-5824c6b24de4
 ---
 This resource contains 2 set of problems based on predicate logic.
-

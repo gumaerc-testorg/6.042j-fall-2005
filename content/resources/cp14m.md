@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/ede2839aceb1c75
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cp14m.pdf
 uid: ede2839a-ceb1-c755-c4de-e2a25a9edc85
 ---
 This resource contains 3 set of problems based on linearity of expectation.
-

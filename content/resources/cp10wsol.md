@@ -6,6 +6,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/b20581737cb788c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: cp10wsol.pdf
 uid: b2058173-7cb7-88ca-e130-75a9fbbe9f30
 ---
 This resource contains solutions of the problems for the in-class problems week 10, wednesday.
-

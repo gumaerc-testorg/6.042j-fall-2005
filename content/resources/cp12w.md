@@ -8,6 +8,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/0b95726eb426488
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 0b95726e-b426-4886-780c-2b6c966e212d
 ---
 This resource contains 4 set of problems based conditional probability and
 independence.
-

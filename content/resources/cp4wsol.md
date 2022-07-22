@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/e40059aeda19c6a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cp4wsol.pdf
 uid: e40059ae-da19-c6ad-8b62-42762a254525
 ---
 This resource contains solutions to in-class problems for week 4, wednesday.
-

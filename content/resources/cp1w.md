@@ -6,6 +6,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/2f40fa3ccb1dfac
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: cp1w.pdf
 uid: 2f40fa3c-cb1d-fac7-9141-4d27201383a6
 ---
 This resource contains 2 set of problems based on bogus proofs and proposition (arithmetic ?geometric mean inequality).
-

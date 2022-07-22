@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/67edf5345177e63
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cp13msol.pdf
 uid: 67edf534-5177-e634-c7b2-fdbfeb81b713
 ---
 This resource contains solutions to in-class problems for week 13, monday.
-

@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/f0868436f25f415
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cp7fsol.pdf
 uid: f0868436-f25f-4159-c6e7-61fe6083ab44
 ---
 This resource contains solutions to in-class problems for week 7, friday.
-

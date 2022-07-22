@@ -7,6 +7,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/d85606e535e7a07
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: planar_animation.pdf
 uid: d85606e5-35e7-a070-fba9-8b7fd91c4884
 ---
 This resource discusses planar graphs, drawing a planar graph, recursive definition of faces, recursively adding an edge to a drawing, face creation rule 1 and 2, and induction on drawings.
-

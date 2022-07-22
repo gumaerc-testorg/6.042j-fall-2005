@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/dc95e4c49a084a0
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ln5.pdf
 uid: dc95e4c4-9a08-4a02-aa9c-e4c838c4cdb6
 ---
 This file contains reading notes on graphs.
-

@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/7105d28d00b6fc3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps3.pdf
 uid: 7105d28d-00b6-fc39-6784-b68bd940e048
 ---
 This file contains exercise questions for grpahy theory.
-

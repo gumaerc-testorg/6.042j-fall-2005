@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/2268fe4dd60a831
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: finalsol.pdf
 uid: 2268fe4d-d60a-8316-f50c-d0f93fd519a6
 ---
 This file contains soluitions to final exam for the course.
-

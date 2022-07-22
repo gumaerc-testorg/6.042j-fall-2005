@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/452c02d740b20a4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cp14w.pdf
 uid: 452c02d7-40b2-0a47-a2e4-86ca6aec22ce
 ---
 This resource contains 5 set of problems based on variance.
-

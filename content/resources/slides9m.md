@@ -6,6 +6,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/83d93733241de28
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: slides9m.pdf
 uid: 83d93733-241d-e284-b3e6-f604d3e4f7ed
 ---
 This resource discusses integral method, Stirling?s Formula and its asymptotic equivalence.
-

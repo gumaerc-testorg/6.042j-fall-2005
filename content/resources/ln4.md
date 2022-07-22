@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/173cd272b3b35d2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ln4.pdf
 uid: 173cd272-b3b3-5d2c-1998-e996104e86f9
 ---
 This file contains reading notes for binary relations.
-

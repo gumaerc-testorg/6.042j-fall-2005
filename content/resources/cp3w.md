@@ -5,6 +5,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/2985bc4646c9bf2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cp3w.pdf
 uid: 2985bc46-46c9-bf23-a59b-ae14f1235c05
 ---
 This resource contains 2 set of problems based on induction I.
-

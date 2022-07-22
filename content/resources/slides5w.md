@@ -6,6 +6,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/5926091844fc3d6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: slides5w.pdf
 uid: 59260918-44fc-3d60-fa18-eb75c9a2bc03
 ---
 This resource discusses team problem of airline gate allocation with the model of graph, Four Color theorem, and chromatic number.
-

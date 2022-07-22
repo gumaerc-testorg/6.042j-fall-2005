@@ -7,6 +7,7 @@ file: /courses/6-042j-mathematics-for-computer-science-fall-2005/44d7c5a2c438bd6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: slides2f.pdf
 uid: 44d7c5a2-c438-bd6b-2336-0c65e328e060
 ---
 This resource discusses G?del's completeness theorem, axioms and inference rules, G?del's incompleteness theorem for arithmetic, sets and functions, and Russell?s Paradox.
-
