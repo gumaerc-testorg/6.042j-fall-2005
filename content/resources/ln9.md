@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains reading notes for counting I.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/5f8110ee5b0df0da6173de66ff35c7b0_ln9.pdf
+file_size: 327848
 file_type: application/pdf
 learning_resource_types:
 - Readings

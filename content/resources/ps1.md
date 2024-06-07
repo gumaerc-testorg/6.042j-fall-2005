@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains exercise questions for Propositions and Proofs.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/d439ac58273bef2a86a52e11d78fdeae_ps1.pdf
+file_size: 141882
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains solutions to the questions asked in problem set 8.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/7e1b1cb9913252ffa049fe3bd15e944e_ps8sol.pdf
+file_size: 160229
 file_type: application/pdf
 learning_resource_types:
 - Assignments

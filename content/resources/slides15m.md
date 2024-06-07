@@ -5,6 +5,7 @@ description: This resource discusses the quotes by Jacob D. Bernoulli, deviation
   and the principle behind stimation (polling),  algorithm analysis, design against
   failure, communication through noise, and gambling.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/27a8844eb8b49add2d30e79294856d80_slides15m.pdf
+file_size: 165717
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

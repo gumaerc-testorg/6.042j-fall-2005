@@ -6,6 +6,7 @@ description: This file contains 11 set of questions based on induction, state ma
   probability, probability and expectation, deviation from the mean, and estimation
   and confidence.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/19487a0d437010d26e10264819566602_final.pdf
+file_size: 188877
 file_type: application/pdf
 learning_resource_types:
 - Exams
