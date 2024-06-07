@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains 4 set of problems based on asymptotics.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/71a603c40941af5ef5aca73de7f47a4a_cp9m.pdf
+file_size: 149306
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

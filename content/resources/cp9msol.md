@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions to in-class problems for week 9, monday.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/04e6b88290364663f87a82f6d3c843dc_cp9msol.pdf
+file_size: 177637
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

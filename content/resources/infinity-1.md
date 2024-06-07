@@ -3,6 +3,7 @@ content_type: resource
 description: This resource discusses the claim that there exists an infinite decreasing
   sequence of natural numbers.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/9c72db6786e5bdaf12909887338b5bc3_infinity.pdf
+file_size: 70680
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

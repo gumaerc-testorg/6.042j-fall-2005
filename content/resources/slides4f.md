@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource discusses types of graphs: directed graphs, undirected
   graphs and multi graphs, isomorphic graphs, graph isomorphism.'
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/197bc514d71ad8280a12fdae966024b5_slides4f.pdf
+file_size: 72015
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

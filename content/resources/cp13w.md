@@ -4,6 +4,7 @@ description: 'This resource contains 2 set of problems based on distribution and
 
   binomial distribution.'
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/6fc72269fc0049e6b854c7ace0967534_cp13w.pdf
+file_size: 108370
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

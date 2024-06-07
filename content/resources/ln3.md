@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains notes on induction, clear write-up, strong induction
   etc.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/5332955df6e10c9279381d1494d74365_ln3.pdf
+file_size: 259153
 file_type: application/pdf
 learning_resource_types:
 - Readings

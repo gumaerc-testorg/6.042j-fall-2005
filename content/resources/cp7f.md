@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains 2 set of problems based on state machines I:
   invariants.'
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/2bb100a5566e7f6b0f23795be64db7eb_cp7f.pdf
+file_size: 127698
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
