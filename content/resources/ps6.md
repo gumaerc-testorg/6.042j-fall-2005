@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This file contains questions for state machines I: invariants.'
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/e71d125ac0bf396521ad6e14bdd1978b_ps6.pdf
+file_size: 165388
 file_type: application/pdf
 learning_resource_types:
 - Assignments

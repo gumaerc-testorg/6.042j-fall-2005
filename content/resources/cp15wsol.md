@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions to in-class problems for week 15, wednesday
   based on gamblers ruin.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/3b4935f73cef38f60e455acaddb5ec65_cp15wsol.pdf
+file_size: 163460
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

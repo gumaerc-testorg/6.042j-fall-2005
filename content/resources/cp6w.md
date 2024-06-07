@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains 4 set of problems based on number theory I.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/e4c90829f16c125f5c1372c6d3b44437_cp6w.pdf
+file_size: 109789
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

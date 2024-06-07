@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions to in-class problems for week 7, friday.
 file: /courses/6-042j-mathematics-for-computer-science-fall-2005/f0868436f25f4159c6e761fe6083ab44_cp7fsol.pdf
+file_size: 142143
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
