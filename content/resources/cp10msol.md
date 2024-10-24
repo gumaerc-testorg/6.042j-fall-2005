@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solution to the in-class problems week 10, monday.
-file: /courses/6-042j-mathematics-for-computer-science-fall-2005/338a2d3616103ab37a5138ac7f20f3f6_cp10msol.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/338a2d3616103ab37a5138ac7f20f3f6_cp10msol.pdf
 file_size: 159799
 file_type: application/pdf
 learning_resource_types:

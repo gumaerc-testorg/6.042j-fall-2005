@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses sum of children, geometric series, infinite geometric
   series, and a team problem on future value of dollar.
-file: /courses/6-042j-mathematics-for-computer-science-fall-2005/bbab7ff88f7002ba03ae7f522302cb1c_slides8w.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/bbab7ff88f7002ba03ae7f522302cb1c_slides8w.pdf
 file_size: 133806
 file_type: application/pdf
 learning_resource_types:

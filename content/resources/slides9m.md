@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses integral method, Stirling?s Formula and its asymptotic
   equivalence.
-file: /courses/6-042j-mathematics-for-computer-science-fall-2005/83d93733241de284b3e6f604d3e4f7ed_slides9m.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/83d93733241de284b3e6f604d3e4f7ed_slides9m.pdf
 file_size: 155610
 file_type: application/pdf
 learning_resource_types:
