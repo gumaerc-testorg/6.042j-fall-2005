@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 3 set of problems based on number theory II.
-file: /courses/6-042j-mathematics-for-computer-science-fall-2005/03dec0120c6f9a2e6820224433884a7d_cp6f.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/03dec0120c6f9a2e6820224433884a7d_cp6f.pdf
 file_size: 104299
 file_type: application/pdf
 learning_resource_types:

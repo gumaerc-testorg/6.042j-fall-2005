@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains solutions to quiz 2.
-file: /courses/6-042j-mathematics-for-computer-science-fall-2005/e82a703a19dc02b8b331b92ceed23e2f_q2sol.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/e82a703a19dc02b8b331b92ceed23e2f_q2sol.pdf
 file_size: 169914
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains soution for the in-class problems week 11, friday.
-file: /courses/6-042j-mathematics-for-computer-science-fall-2005/ab65387d040655689b2445540e5bd231_cp11fsol.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/ab65387d040655689b2445540e5bd231_cp11fsol.pdf
 file_size: 149547
 file_type: application/pdf
 learning_resource_types:

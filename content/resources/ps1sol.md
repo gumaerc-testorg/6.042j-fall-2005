@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains solutions to the question asked for propositions and
   proofs.
-file: /courses/6-042j-mathematics-for-computer-science-fall-2005/9d2ce1565e37a5ace0f0a08b043da4f4_ps1sol.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/9d2ce1565e37a5ace0f0a08b043da4f4_ps1sol.pdf
 file_size: 172672
 file_type: application/pdf
 learning_resource_types:
