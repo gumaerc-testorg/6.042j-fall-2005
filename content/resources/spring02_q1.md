@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains questions for spring 2002 quiz.
-file: /courses/6-042j-mathematics-for-computer-science-fall-2005/b6b1a6da597034dda2d8941d6f2d5fc2_spring02_q1.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/b6b1a6da597034dda2d8941d6f2d5fc2_spring02_q1.pdf
 file_size: 151484
 file_type: application/pdf
 learning_resource_types:
