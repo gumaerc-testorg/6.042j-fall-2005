@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses proof by contradiction, proof by cases, proof
   by deductions, and Goldbach conjecture.
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/d80e5817cc9454596f2f44d9c6c42ec9_slides2m.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2005/d80e5817cc9454596f2f44d9c6c42ec9_slides2m.pdf
 file_size: 62787
 file_type: application/pdf
 learning_resource_types:

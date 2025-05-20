@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource conyains 4 set of problems based on counting II.
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/11747cdb1edcb40420e61d0b03becb0d_cp9f.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2005/11747cdb1edcb40420e61d0b03becb0d_cp9f.pdf
 file_size: 142343
 file_type: application/pdf
 learning_resource_types:

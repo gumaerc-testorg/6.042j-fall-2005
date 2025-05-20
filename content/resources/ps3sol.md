@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains solutions to the questions asked in induction.
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/471b2271697e925b562f955d84d7856c_ps3sol.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2005/471b2271697e925b562f955d84d7856c_ps3sol.pdf
 file_size: 201850
 file_type: application/pdf
 learning_resource_types:

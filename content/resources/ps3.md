@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains exercise questions for grpahy theory.
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/7105d28d00b6fc396784b68bd940e048_ps3.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2005/7105d28d00b6fc396784b68bd940e048_ps3.pdf
 file_size: 137353
 file_type: application/pdf
 learning_resource_types:

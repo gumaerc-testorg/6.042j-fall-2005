@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 3 set of problems based on gamblers ruin under
   the topic random walks.
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/1cec3bf1b31f3a2c81eab2ab1fe450d8_cp15w.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2005/1cec3bf1b31f3a2c81eab2ab1fe450d8_cp15w.pdf
 file_size: 120093
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 2 set of problems based on sets and functions.
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/705f3f24a2a61889df1cbb79dcdd6139_cp2f.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2005/705f3f24a2a61889df1cbb79dcdd6139_cp2f.pdf
 file_size: 88122
 file_type: application/pdf
 learning_resource_types:

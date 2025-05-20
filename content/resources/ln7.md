@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains reading notes for State Machines: Invariants and
   Termination along with the examples etc.'
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/9ecca71877aba37f609292c8ff94d44e_ln7.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2005/9ecca71877aba37f609292c8ff94d44e_ln7.pdf
 file_size: 234680
 file_type: application/pdf
 learning_resource_types:
