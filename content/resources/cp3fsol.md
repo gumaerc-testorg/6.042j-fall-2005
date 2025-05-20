@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to in-class problems for week 3, friday.
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/98cda81c28069128be08230cc06d85d3_cp3fsol.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2005/98cda81c28069128be08230cc06d85d3_cp3fsol.pdf
 file_size: 129210
 file_type: application/pdf
 learning_resource_types:

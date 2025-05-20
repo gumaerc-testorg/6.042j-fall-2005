@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes on predicates and sets, mixing quantifiers,
   some popular sets etc.
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/284b2a98a400a3f3608fef9d1be01ebc_ln2.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2005/284b2a98a400a3f3608fef9d1be01ebc_ln2.pdf
 file_size: 287837
 file_type: application/pdf
 learning_resource_types:

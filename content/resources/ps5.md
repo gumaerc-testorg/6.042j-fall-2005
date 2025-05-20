@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains questions for number theory.
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/a24518eda7f784600d6716cc516f7090_ps5.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2005/a24518eda7f784600d6716cc516f7090_ps5.pdf
 file_size: 126367
 file_type: application/pdf
 learning_resource_types:
