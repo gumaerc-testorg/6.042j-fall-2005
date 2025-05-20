@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains questions based on graph theory.
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/587366ef0ee07f57ed41715559224224_ps4.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2005/587366ef0ee07f57ed41715559224224_ps4.pdf
 file_size: 142318
 file_type: application/pdf
 learning_resource_types:

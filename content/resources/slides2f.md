@@ -3,7 +3,7 @@ content_type: resource
 description: This resource discusses G?del's completeness theorem, axioms and inference
   rules, G?del's incompleteness theorem for arithmetic, sets and functions, and Russell?s
   Paradox.
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/44d7c5a2c438bd6b23360c65e328e060_slides2f.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2005/44d7c5a2c438bd6b23360c65e328e060_slides2f.pdf
 file_size: 122685
 file_type: application/pdf
 learning_resource_types:

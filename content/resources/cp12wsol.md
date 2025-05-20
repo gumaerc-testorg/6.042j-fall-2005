@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions to the in-class problems for week 12,
   wednesday.
-file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/c74f853d4d132d360ec2c1672b42bd08_cp12wsol.pdf
+file: /courses/6-042j-mathematics-for-computer-science-fall-2005/c74f853d4d132d360ec2c1672b42bd08_cp12wsol.pdf
 file_size: 163480
 file_type: application/pdf
 learning_resource_types:
