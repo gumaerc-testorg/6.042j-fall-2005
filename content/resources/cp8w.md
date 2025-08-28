@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 3 set of problems based on sum and series I.
-file: /courses/6-042j-mathematics-for-computer-science-fall-2005/000e962f5926e914264ed935c45ed89c_cp8w.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/000e962f5926e914264ed935c45ed89c_cp8w.pdf
 file_size: 101688
 file_type: application/pdf
 learning_resource_types:

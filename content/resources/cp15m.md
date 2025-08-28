@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 3 set of problems based on law of Large Numbers.
-file: /courses/6-042j-mathematics-for-computer-science-fall-2005/22f9c6321425c930ea22938a24839c44_cp15m.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/22f9c6321425c930ea22938a24839c44_cp15m.pdf
 file_size: 128629
 file_type: application/pdf
 learning_resource_types:
