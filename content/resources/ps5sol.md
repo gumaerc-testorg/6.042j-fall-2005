@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains solutions to the questions asked in problem set 5.
-file: /courses/6-042j-mathematics-for-computer-science-fall-2005/8d40392c4efc7395fb0a1536c238355c_ps5sol.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/8d40392c4efc7395fb0a1536c238355c_ps5sol.pdf
 file_size: 141382
 file_type: application/pdf
 learning_resource_types:

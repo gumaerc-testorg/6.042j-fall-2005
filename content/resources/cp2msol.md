@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to in-class problems for week 2, monday.
-file: /courses/6-042j-mathematics-for-computer-science-fall-2005/a8817d75cbff6485623afb25cdd36165_cp2msol.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/a8817d75cbff6485623afb25cdd36165_cp2msol.pdf
 file_size: 171178
 file_type: application/pdf
 learning_resource_types:

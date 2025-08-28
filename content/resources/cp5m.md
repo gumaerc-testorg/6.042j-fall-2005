@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 5 set of problems based on graph theory II.
-file: /courses/6-042j-mathematics-for-computer-science-fall-2005/4f84b4672cd5ac3a09b017a62c84f9a3_cp5m.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/4f84b4672cd5ac3a09b017a62c84f9a3_cp5m.pdf
 file_size: 123936
 file_type: application/pdf
 learning_resource_types:

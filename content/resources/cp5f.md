@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 4 set of problems based on graph theory IV.
-file: /courses/6-042j-mathematics-for-computer-science-fall-2005/6bd335dd854ae40a03066127fae962ab_cp5f.pdf
+file: /ol-ocw-studio-app/courses/6-042j-mathematics-for-computer-science-fall-2005/6bd335dd854ae40a03066127fae962ab_cp5f.pdf
 file_size: 61424
 file_type: application/pdf
 learning_resource_types:
